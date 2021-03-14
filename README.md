@@ -1,7 +1,7 @@
 # perception_tools
-additional utils for working with Unity perception package
+additional utils for working with Unity perception package, which generates synthetic images for AI training.
 
-some various utils to improve the workflow with unity perception package. 
+ 
 First up - perception to coco converter for 2D bounding boxes.
 
 Perception outputs all the data in their own format, 
